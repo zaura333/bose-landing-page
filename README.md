@@ -13,12 +13,10 @@ A responsive landing page created using HTML, SASS, and VanillaJS. It follows BE
 
 ## Features
 
-- Responsive design: The landing page is optimized for various screen sizes, ensuring a seamless experience on desktops, tablets, and mobile devices.
+- Responsive design: The landing page is optimized for various screen sizes, ensuring a consistent experience on mobile devices, tablets, and desktops.
 
-- BEM methodology: The project follows the Block Element Modifier (BEM) naming convention, promoting a modular and maintainable codebase.
+- BEM methodology: The project follows the Block Element Modifier (BEM) naming convention, creating a modular and maintainable codebase.
 
-- Mobile-First Design: The project is designed with a mobile-first approach, ensuring a great user experience on smaller screens and progressively enhancing for larger screens.
-
-- SASS: The styles are written in SASS, a powerful and feature-rich CSS preprocessor, enhancing the maintainability and readability of stylesheets.
+- Mobile-First Design: The project is designed with a mobile-first approach.
 
 - Image Resizing: The project utilizes the sharp library to dynamically resize images, optimizing performance and load times.
